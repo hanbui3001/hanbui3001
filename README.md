@@ -29,13 +29,13 @@
 ## 🌐 Socials
 
 <p>
-  <a href="https://facebook.com/your-facebook-username">
+  <a href="https://www.facebook.com/han.bui.843046/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/your-instagram-username">
+  <a href="https://www.instagram.com/han_bui30/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hanvanbui3001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
