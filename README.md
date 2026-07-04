@@ -1,45 +1,48 @@
-<h1 align="center">Hi, I'm Han</h1>
+# 🪐 About Me:
 
-<h3 align="center">Backend-focused developer working with Java, Spring Boot, and SQL</h3>
+## 🚀 Bùi Văn Hân | Java Backend Developer
 
-<p align="center">
-  <a href="https://github.com/hanbui3001">
-    <img src="https://komarev.com/ghpvc/?username=hanbui3001&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/hanbui3001?tab=followers">
-    <img src="https://img.shields.io/github/followers/hanbui3001?label=Followers&style=flat" alt="followers" />
-  </a>
-</p>
+- 🎓 Software Development Student
+- 💻 Backend-focused developer working with **Java**, **Spring Boot**, and **SQL**
+- 🧩 Interested in **RESTful APIs**, **database design**, and practical server-side applications
+- 🗄️ Experience with relational database fundamentals and SQL-driven application logic
+- 🛠️ Building projects that connect clean backend logic with real-world features
+- 🌱 Currently improving backend architecture, Git workflow, and database modeling
 
-## About Me
+## 💡 Currently Improving
 
-- Backend-focused developer working with Java, Spring Boot, and SQL.
-- Interested in APIs, database design, and practical server-side applications.
-- Building projects that connect clean backend logic with usable real-world features.
+- Java backend development
+- Spring Boot REST APIs
+- SQL database design
+- Clean project structure
 
-## Tech Stack
+## ⚡ Fun Fact
+
+> Backend is the quiet engine that makes useful applications actually work.
+
+## 📩 Open To
+
+- Java Backend projects
+- Spring Boot practice projects
+- Database-driven web applications
+
+## 🌐 Socials
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,html,css,react,nodejs,git,github,vscode,idea" alt="Tech stack" />
+  <a href="https://github.com/hanbui3001">
+    <img src="https://img.shields.io/badge/GitHub-hanbui3001-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
 </p>
 
-## Featured Public Repositories
+## 🧰 Languages and Tools
 
-| Project | Description | Tech |
-| --- | --- | --- |
-| [PacMan](https://github.com/hanbui3001/PacMan) | Java Swing desktop Pac-Man game with difficulty levels, scoring, music, and leaderboard. | Java, Swing |
-| [GitHub Weekly Mail](https://github.com/hanbui3001/github-weekly-mail) | Weekly email digest for interesting GitHub repositories, automated with GitHub Actions. | Node.js, GitHub Actions |
-| [demo-spring](https://github.com/hanbui3001/demo-spring) | Spring Boot demo project for backend practice. | Java, Spring Boot |
-| [demo_commerce](https://github.com/hanbui3001/demo_commerce) | Commerce demo project focused on practical application structure. | Java, Backend |
-| [Apple Store Web](https://github.com/hanbui3001/Apple_store_web) | Project starter for a clean product storefront experience. | Web, Frontend |
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,html,css,react,nodejs,git,github,vscode,idea" alt="Languages and tools" />
+</p>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanbui3001&show_icons=true&theme=tokyonight&hide_border=true" alt="Han's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbui3001&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
-
-## Contribution Graph
-
-![Han's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hanbui3001&theme=tokyo-night&hide_border=true)
