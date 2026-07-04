@@ -37,12 +37,5 @@
 ## 🧰 Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,html,css,react,nodejs,git,github,vscode,idea" alt="Languages and tools" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanbui3001&show_icons=true&theme=tokyonight&hide_border=true" alt="Han's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbui3001&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,js,nextjs,git,github,vscode" alt="Languages and tools" />
 </p>
